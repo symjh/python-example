@@ -1,0 +1,3 @@
+pip install -i https://mirrors.aliyun.com/pypi/simple hyper
+pip install -i https://mirrors.aliyun.com/pypi/simple selenium
+pip install -i https://mirrors.aliyun.com/pypi/simple pyinstaller
